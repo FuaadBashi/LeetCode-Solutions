@@ -15,6 +15,7 @@ All my leetcode solutions code
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -32,6 +33,7 @@ All my leetcode solutions code
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0443-string-compression) |
@@ -46,6 +48,7 @@ All my leetcode solutions code
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 ## Dynamic Programming
 |  |
