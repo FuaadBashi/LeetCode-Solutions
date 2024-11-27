@@ -45,6 +45,7 @@ All my leetcode solutions code
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0443-string-compression) |
@@ -73,6 +74,7 @@ All my leetcode solutions code
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
@@ -84,4 +86,5 @@ All my leetcode solutions code
 | [0002-add-two-numbers](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
