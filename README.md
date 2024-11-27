@@ -30,11 +30,13 @@ All my leetcode solutions code
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy
@@ -44,6 +46,7 @@ All my leetcode solutions code
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
