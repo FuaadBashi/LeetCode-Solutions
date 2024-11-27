@@ -7,6 +7,7 @@ All my leetcode solutions code
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -19,4 +20,8 @@ All my leetcode solutions code
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
+## Two Pointers
+|  |
+| ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
