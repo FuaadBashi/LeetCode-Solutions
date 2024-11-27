@@ -23,5 +23,10 @@ All my leetcode solutions code
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
