@@ -15,11 +15,13 @@ All my leetcode solutions code
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [1833-find-the-highest-altitude](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 ## Two Pointers
 |  |
