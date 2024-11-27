@@ -17,6 +17,7 @@ All my leetcode solutions code
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 ## Prefix Sum
 |  |
@@ -36,4 +37,12 @@ All my leetcode solutions code
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
