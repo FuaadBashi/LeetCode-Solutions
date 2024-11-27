@@ -76,4 +76,8 @@ All my leetcode solutions code
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
