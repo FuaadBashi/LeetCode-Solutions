@@ -11,4 +11,12 @@ All my leetcode solutions code
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/FuaadBashi/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
