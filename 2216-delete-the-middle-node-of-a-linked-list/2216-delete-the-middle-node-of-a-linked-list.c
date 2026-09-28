@@ -5,26 +5,25 @@
  *     struct ListNode *next;
  * };
  */
-struct ListNode* deleteMiddle(struct ListNode* head) {
+struct ListNode *deleteMiddle(struct ListNode *head) {
 
     struct ListNode *nextNode = head;
     struct ListNode *prevNode = NULL;
     int length = 0;
 
-    
-    while( nextNode != NULL){
+    while (nextNode != NULL) {
         prevNode = nextNode;
-        nextNode = nextNode -> next;
+        nextNode = nextNode->next;
         ++length;
     }
 
-    if (length == 2){
+    if (length == 2) {
         nextNode = head;
-        nextNode -> next = NULL;
+        nextNode->next = NULL;
         return head;
     }
 
-    if (length == 1){
+    if (length == 1) {
         return head = NULL;
     }
 
@@ -33,24 +32,20 @@ struct ListNode* deleteMiddle(struct ListNode* head) {
     nextNode = head;
     prevNode = NULL;
 
+    while (newlength <= length) {
 
-    while ( newlength <= length ) {
+        if (newlength == length && nextNode->next != NULL) {
+            nextNode = nextNode->next;
+            prevNode->next = nextNode;
 
-        if (newlength == length && nextNode -> next != NULL){
-            nextNode = nextNode -> next;
-            prevNode -> next = nextNode;
-
-        } else if (newlength == length && nextNode -> next == NULL){
-            prevNode -> next = NULL;
+        } else if (newlength == length && nextNode->next == NULL) {
+            prevNode->next = NULL;
         }
 
-        
-
         prevNode = nextNode;
-        nextNode = nextNode -> next;
-        ++newlength;  
+        nextNode = nextNode->next;
+        ++newlength;
     }
 
     return head;
-
 }

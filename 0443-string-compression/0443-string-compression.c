@@ -1,9 +1,9 @@
 
 int intToAscii(int number) {
-   return '0' + number;
+    return '0' + number;
 }
 
-int compress(char* chars, int size) {
+int compress(char *chars, int size) {
 
     // char *newchars = (char*) calloc(size * 2,sizeof(char));
 
@@ -11,27 +11,26 @@ int compress(char* chars, int size) {
     int counter = 1;
     int index = 0;
 
-    if ( size == 1){
+    if (size == 1) {
         return 1;
     }
-    
-    for (int i = 0, j; i < size; ++i){
+
+    for (int i = 0, j; i < size; ++i) {
 
         char first = chars[i];
         char second = '\0';
 
-        if (i < size - 1){
+        if (i < size - 1) {
             j = i + 1;
             second = chars[j];
         }
-       
-      
-        if ( first == second ) {
+
+        if (first == second) {
             ++counter;
         } else if (first != second || second == '\0') {
             chars[index++] = chars[i];
             ++count;
-            if ( counter > 1 && counter < 10 ){
+            if (counter > 1 && counter < 10) {
                 int num = intToAscii(counter);
                 chars[index++] = num;
                 count += 1;
@@ -76,19 +75,17 @@ int compress(char* chars, int size) {
             }
             counter = 1;
         }
-        
     }
-    
+
     // for(int m = 0; chars[m]!='\0'; m++) {
     //         count++;
     // }
 
-   printf("\n[");
-    for(int k = 0; k < count; ++k){
+    printf("\n[");
+    for (int k = 0; k < count; ++k) {
         printf("%c", chars[k]);
     }
     printf("]\n");
-
 
     return count;
 }

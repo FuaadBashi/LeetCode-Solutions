@@ -1,5 +1,5 @@
 bool isPalindrome(int x) {
-    
+
     int count = 0; /* digit position */
     int n = x;
     int flag = 0;
@@ -12,26 +12,24 @@ bool isPalindrome(int x) {
         return true;
     }
 
-    while (n != 0)
-    {
+    while (n != 0) {
         n /= 10;
         count++;
     }
 
     int numberArray[count];
 
-    int c = 0;    
+    int c = 0;
     n = x;
 
     /* extract each digit */
-    while (n != 0)
-    {
+    while (n != 0) {
         numberArray[c] = n % 10;
         n /= 10;
         c++;
     }
 
-    int j = 0; 
+    int j = 0;
 
     for (int k = count - 1; k >= j; k--) {
 
@@ -45,8 +43,7 @@ bool isPalindrome(int x) {
         if (first == last) {
             j++;
             flag++;
-        }
-        else {
+        } else {
             return false;
         }
     }
