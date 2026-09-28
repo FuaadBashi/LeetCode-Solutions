@@ -14,9 +14,7 @@ int reverse(int x) {
     int maxtemp = ((INT32_MAX) - (x % 10)) / 10;
     int mintemp = ((INT32_MIN) + (x % 10)) / 10;
 
-
     while (x > 0) {
-    
 
         if (maxtemp + 1 <= ret) {
             return ret = 0;

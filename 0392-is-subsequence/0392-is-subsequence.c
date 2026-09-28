@@ -1,6 +1,6 @@
 
-bool isSubsequence(char* s, char* t) {
-    
+bool isSubsequence(char *s, char *t) {
+
     char *sptr = s;
     char *tptr = t;
 
@@ -10,19 +10,18 @@ bool isSubsequence(char* s, char* t) {
         return true;
     }
 
-    while ( *tptr != '\0' ) {
-     
+    while (*tptr != '\0') {
+
         if (*sptr == *tptr) {
             ++counter;
             ++sptr;
         }
         ++tptr;
 
-        if ( *sptr == '\0' ){
+        if (*sptr == '\0') {
             return true;
         }
     }
 
     return false;
-    
 }

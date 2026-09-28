@@ -1,12 +1,15 @@
 # LeetCode Solutions
 
-A practice collection of algorithm and data-structure solutions in C, Java, and Python. Each problem directory includes its statement and, where present, a language-specific solution.
+My solutions to LeetCode problems, synced automatically by [LeetHub](https://github.com/arunbhardwaj/LeetHub-2.0).
+Each folder holds the problem statement and my accepted solution.
 
-## How to explore
+| Solved | Easy | Medium | Languages |
+| --- | --- | --- | --- |
+| 22 | 9 | 13 | C, Java, Python |
 
-Choose a topic below, read the problem statement, then inspect the solution beside it. These submissions target the LeetCode judge; C and Java snippets may depend on judge-provided types or harnesses and are not standalone applications.
-
-The topic index is maintained by the existing automation. This repository records practice, not a single production library.
+Most solutions are in C, working directly with pointers and in-place array manipulation (two
+pointers, sliding windows, prefix sums, linked-list surgery). The topic index below links each
+problem by technique.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
